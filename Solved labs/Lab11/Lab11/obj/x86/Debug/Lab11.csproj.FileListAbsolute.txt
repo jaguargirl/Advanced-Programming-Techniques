@@ -1,0 +1,8 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\obj\x86\Debug\Lab11.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\obj\x86\Debug\Lab11.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\obj\x86\Debug\Lab11.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\obj\x86\Debug\Lab11.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab11\Lab11\obj\x86\Debug\Lab11.pdb
