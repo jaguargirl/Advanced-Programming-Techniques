@@ -1,0 +1,7 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\bin\Debug\Lab3A2.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\bin\Debug\Lab3A2.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\obj\x86\Debug\Lab3A2.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\obj\x86\Debug\Lab3A2.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\obj\x86\Debug\Lab3A2.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\obj\x86\Debug\Lab3A2.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab3A2\Lab3A2\obj\x86\Debug\Lab3A2.pdb

@@ -1,0 +1,8 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\obj\x86\Debug\Lab4.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\obj\x86\Debug\Lab4.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\obj\x86\Debug\Lab4.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
