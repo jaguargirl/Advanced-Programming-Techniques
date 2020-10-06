@@ -1,0 +1,10 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\bin\Debug\Model2.exe.config
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\bin\Debug\Model2.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\bin\Debug\Model2.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.Form2.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model2\Model2\obj\x86\Debug\Model2.csprojResolveAssemblyReference.cache

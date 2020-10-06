@@ -1,0 +1,8 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\bin\Debug\Model.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\bin\Debug\Model.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\obj\x86\Debug\Model.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\obj\x86\Debug\Model.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\obj\x86\Debug\Model.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\obj\x86\Debug\Model.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Model\Model\bin\Debug\Model.exe.config
