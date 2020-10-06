@@ -1,0 +1,11 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.FLocalitati.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.FPersoane.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab2\Lab2\obj\x86\Debug\Lab2.csprojResolveAssemblyReference.cache
