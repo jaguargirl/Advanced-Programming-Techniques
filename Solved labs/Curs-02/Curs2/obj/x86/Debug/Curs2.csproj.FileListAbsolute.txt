@@ -1,0 +1,14 @@
+D:\TAP-2018\Curs2\Curs2\bin\Debug\Curs2.exe.config
+D:\TAP-2018\Curs2\Curs2\bin\Debug\Curs2.exe
+D:\TAP-2018\Curs2\Curs2\bin\Debug\Curs2.pdb
+D:\TAP-2018\Curs2\Curs2\obj\x86\Debug\Curs2.Form1.resources
+D:\TAP-2018\Curs2\Curs2\obj\x86\Debug\Curs2.Properties.Resources.resources
+D:\TAP-2018\Curs2\Curs2\obj\x86\Debug\Curs2.csproj.GenerateResource.Cache
+D:\TAP-2018\Curs2\Curs2\obj\x86\Debug\Curs2.exe
+D:\TAP-2018\Curs2\Curs2\obj\x86\Debug\Curs2.pdb
+D:\TAP-2019\Curs-02\Curs2\bin\Debug\Curs2.exe.config
+D:\TAP-2019\Curs-02\Curs2\obj\x86\Debug\Curs2.exe
+D:\TAP-2019\Curs-02\Curs2\obj\x86\Debug\Curs2.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Curs-02\Curs2\bin\Debug\Curs2.exe.config
+D:\TAP_Info3_G4_Bobu_Natalia\Curs-02\Curs2\obj\x86\Debug\Curs2.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Curs-02\Curs2\obj\x86\Debug\Curs2.pdb
