@@ -1,0 +1,9 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\bin\Debug\Exam.exe.config
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\bin\Debug\Exam.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\bin\Debug\Exam.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\obj\x86\Debug\Exam.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\obj\x86\Debug\Exam.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\obj\x86\Debug\Exam.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\obj\x86\Debug\Exam.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\obj\x86\Debug\Exam.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Exam\Exam\obj\x86\Debug\Exam.Form2.resources
