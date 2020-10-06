@@ -1,0 +1,11 @@
+D:\TAP-2019\C6\C6\bin\Debug\C6.exe.config
+D:\TAP-2019\C6\C6\bin\Debug\C6.exe
+D:\TAP-2019\C6\C6\bin\Debug\C6.pdb
+D:\TAP-2019\C6\C6\obj\x86\Debug\C6.Form1.resources
+D:\TAP-2019\C6\C6\obj\x86\Debug\C6.Properties.Resources.resources
+D:\TAP-2019\C6\C6\obj\x86\Debug\C6.csproj.GenerateResource.Cache
+D:\TAP-2019\C6\C6\obj\x86\Debug\C6.exe
+D:\TAP-2019\C6\C6\obj\x86\Debug\C6.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\L10\C6\bin\Debug\C6.exe.config
+D:\TAP_Info3_G4_Bobu_Natalia\L10\C6\obj\x86\Debug\C6.exe
+D:\TAP_Info3_G4_Bobu_Natalia\L10\C6\obj\x86\Debug\C6.pdb
