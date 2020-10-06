@@ -1,0 +1,13 @@
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\bin\Debug\Curs_01.exe.config
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\bin\Debug\Curs_01.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\bin\Debug\Curs_01.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.Form1.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.Form2.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.Properties.Resources.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.csproj.GenerateResource.Cache
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Curs_01\Curs_01\obj\x86\Debug\Curs_01.Form3.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Curs_01\Curs_01\bin\Debug\Curs_01.exe.config
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Curs_01\Curs_01\obj\x86\Debug\Curs_01.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Curs_01\Curs_01\obj\x86\Debug\Curs_01.pdb
