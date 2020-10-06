@@ -1,0 +1,8 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\obj\x86\Debug\Lab6.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
