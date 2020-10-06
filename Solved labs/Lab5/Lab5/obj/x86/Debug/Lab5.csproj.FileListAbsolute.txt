@@ -1,0 +1,7 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\obj\x86\Debug\Lab5.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\obj\x86\Debug\Lab5.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\obj\x86\Debug\Lab5.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\obj\x86\Debug\Lab5.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab5\Lab5\obj\x86\Debug\Lab5.pdb
