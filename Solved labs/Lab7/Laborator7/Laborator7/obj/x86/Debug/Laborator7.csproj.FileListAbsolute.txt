@@ -1,0 +1,14 @@
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\bin\Debug\Laborator7.exe
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\bin\Debug\Laborator7.pdb
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.Form1.resources
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.Properties.Resources.resources
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.csproj.GenerateResource.Cache
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.exe
+D:\Info3_G4_Bobu_Natalia\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\bin\Debug\Laborator7.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\bin\Debug\Laborator7.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme Laborator\Lab7\Laborator7\Laborator7\obj\x86\Debug\Laborator7.csproj.GenerateResource.Cache

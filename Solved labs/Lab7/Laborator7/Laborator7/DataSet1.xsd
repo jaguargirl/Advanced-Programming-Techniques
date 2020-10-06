@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Persoane" msprop:Generator_TableClassName="PersoaneDataTable" msprop:Generator_TableVarName="tablePersoane" msprop:Generator_TablePropName="Persoane" msprop:Generator_RowDeletingName="PersoaneRowDeleting" msprop:Generator_RowChangingName="PersoaneRowChanging" msprop:Generator_RowEvHandlerName="PersoaneRowChangeEventHandler" msprop:Generator_RowDeletedName="PersoaneRowDeleted" msprop:Generator_UserTableName="Persoane" msprop:Generator_RowChangedName="PersoaneRowChanged" msprop:Generator_RowEvArgName="PersoaneRowChangeEvent" msprop:Generator_RowClassName="PersoaneRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdPersoana" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnIdPersoana" msprop:Generator_ColumnPropNameInRow="IdPersoana" msprop:Generator_ColumnPropNameInTable="IdPersoanaColumn" msprop:Generator_UserColumnName="IdPersoana" type="xs:int" />
+              <xs:element name="Nume" msprop:Generator_ColumnVarNameInTable="columnNume" msprop:Generator_ColumnPropNameInRow="Nume" msprop:Generator_ColumnPropNameInTable="NumeColumn" msprop:Generator_UserColumnName="Nume" type="xs:string" minOccurs="0" />
+              <xs:element name="CNP" msprop:Generator_ColumnVarNameInTable="columnCNP" msprop:Generator_ColumnPropNameInRow="CNP" msprop:Generator_ColumnPropNameInTable="CNPColumn" msprop:Generator_UserColumnName="CNP" type="xs:string" minOccurs="0" />
+              <xs:element name="Salariu" msprop:Generator_ColumnVarNameInTable="columnSalariu" msprop:Generator_ColumnPropNameInRow="Salariu" msprop:Generator_ColumnPropNameInTable="SalariuColumn" msprop:Generator_UserColumnName="Salariu" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Auto" msprop:Generator_TableClassName="AutoDataTable" msprop:Generator_TableVarName="tableAuto" msprop:Generator_TablePropName="Auto" msprop:Generator_RowDeletingName="AutoRowDeleting" msprop:Generator_RowChangingName="AutoRowChanging" msprop:Generator_RowEvHandlerName="AutoRowChangeEventHandler" msprop:Generator_RowDeletedName="AutoRowDeleted" msprop:Generator_UserTableName="Auto" msprop:Generator_RowChangedName="AutoRowChanged" msprop:Generator_RowEvArgName="AutoRowChangeEvent" msprop:Generator_RowClassName="AutoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NrInmatriculare" msprop:Generator_ColumnVarNameInTable="columnNrInmatriculare" msprop:Generator_ColumnPropNameInRow="NrInmatriculare" msprop:Generator_ColumnPropNameInTable="NrInmatriculareColumn" msprop:Generator_UserColumnName="NrInmatriculare" type="xs:string" minOccurs="0" />
+              <xs:element name="MarcaModel" msprop:Generator_ColumnVarNameInTable="columnMarcaModel" msprop:Generator_ColumnPropNameInRow="MarcaModel" msprop:Generator_ColumnPropNameInTable="MarcaModelColumn" msprop:Generator_UserColumnName="MarcaModel" type="xs:string" minOccurs="0" />
+              <xs:element name="CNPProprietar" msprop:Generator_ColumnVarNameInTable="columnCNPProprietar" msprop:Generator_ColumnPropNameInRow="CNPProprietar" msprop:Generator_ColumnPropNameInTable="CNPProprietarColumn" msprop:Generator_UserColumnName="CNPProprietar" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:Persoane" />
+      <xs:field xpath="mstns:IdPersoana" />
+    </xs:unique>
+    <xs:unique name="Constraint2">
+      <xs:selector xpath=".//mstns:Persoane" />
+      <xs:field xpath="mstns:CNP" />
+    </xs:unique>
+    <xs:unique name="Auto_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//mstns:Auto" />
+      <xs:field xpath="mstns:NrInmatriculare" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

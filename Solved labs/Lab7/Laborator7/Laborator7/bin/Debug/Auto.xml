@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Auto>
+    <NrInmatriculare>CT345TR</NrInmatriculare>
+    <MarcaModel>Toyota</MarcaModel>
+    <CNPProprietar>1092347324544</CNPProprietar>
+  </Auto>
+  <Auto>
+    <NrInmatriculare>IL343fr</NrInmatriculare>
+    <MarcaModel>Dacia</MarcaModel>
+    <CNPProprietar>1275489302745</CNPProprietar>
+  </Auto>
+</DataSet1>
