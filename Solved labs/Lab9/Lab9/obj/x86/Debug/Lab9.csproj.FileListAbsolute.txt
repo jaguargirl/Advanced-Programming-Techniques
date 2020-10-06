@@ -1,0 +1,7 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\bin\Debug\Lab9.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\bin\Debug\Lab9.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\obj\x86\Debug\Lab9.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab9\Lab9\obj\x86\Debug\Lab9.pdb

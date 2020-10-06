@@ -1,0 +1,9 @@
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\bin\Debug\Lab-09.exe.config
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\bin\Debug\Lab-09.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\bin\Debug\Lab-09.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\obj\x86\Debug\Lab_09.Form1.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\obj\x86\Debug\Lab_09.Properties.Resources.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\obj\x86\Debug\Lab-09.csproj.GenerateResource.Cache
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\obj\x86\Debug\Lab-09.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\obj\x86\Debug\Lab-09.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Lab-09\Lab-09\obj\x86\Debug\Lab-09.csprojResolveAssemblyReference.cache
