@@ -1,0 +1,8 @@
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\bin\Debug\Lab8.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\bin\Debug\Lab8.pdb
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\obj\x86\Debug\Lab8.Form1.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\obj\x86\Debug\Lab8.Form2.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\obj\x86\Debug\Lab8.Properties.Resources.resources
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\obj\x86\Debug\Lab8.csproj.GenerateResource.Cache
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\obj\x86\Debug\Lab8.exe
+E:\Univ\Info 3\Tehnici avansate de programare\Teme\Lab8\Lab8\obj\x86\Debug\Lab8.pdb
