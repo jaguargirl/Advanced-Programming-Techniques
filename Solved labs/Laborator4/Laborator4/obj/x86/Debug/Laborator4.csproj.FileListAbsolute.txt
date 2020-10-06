@@ -1,0 +1,10 @@
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\bin\Debug\Laborator4.exe.config
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\bin\Debug\Laborator4.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\bin\Debug\Laborator4.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.Form1.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.Properties.Resources.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.csproj.GenerateResource.Cache
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.exe
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.pdb
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.Form2.resources
+D:\TAP_Info3_G4_Bobu_Natalia\Laborator4\Laborator4\obj\x86\Debug\Laborator4.Form3.resources

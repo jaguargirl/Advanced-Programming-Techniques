@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Persoane>
+    <IdPersoana>1</IdPersoana>
+    <Nume>Serban Mihai-Alexandru</Nume>
+    <CNP>1092347324544</CNP>
+    <Salariu>20000</Salariu>
+  </Persoane>
+  <Persoane>
+    <IdPersoana>2</IdPersoana>
+    <Nume>Macari Cristian</Nume>
+    <CNP>1275489302745</CNP>
+    <Salariu>20000</Salariu>
+  </Persoane>
+  <Persoane>
+    <IdPersoana>4</IdPersoana>
+    <Nume>Borta Petru</Nume>
+    <CNP>5675643456786</CNP>
+    <Salariu>565656</Salariu>
+  </Persoane>
+  <Persoane>
+    <IdPersoana>5</IdPersoana>
+    <Nume>hjmhj</Nume>
+    <CNP>5675643456789</CNP>
+    <Salariu>547687</Salariu>
+  </Persoane>
+</DataSet1>
